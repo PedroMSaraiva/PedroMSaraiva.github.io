@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: PedroMSaraiva',
+    username: 'PedroMSaraiva',
   },
   base: '/',
   projects: {
